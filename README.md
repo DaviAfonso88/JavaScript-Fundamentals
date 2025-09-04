@@ -39,6 +39,19 @@ src/
     errorHandler.js
   servidor.js
 ```
+---
+
+## 📌 Endpoints
+
+| Método | Rota             | Descrição                  |
+|--------|-----------------|----------------------------|
+| GET    | `/produtos`      | Lista todos os produtos    |
+| GET    | `/produtos/:id`  | Busca um produto pelo ID   |
+| POST   | `/produtos`      | Cria um novo produto       |
+| PUT    | `/produtos/:id`  | Atualiza um produto pelo ID|
+| DELETE | `/produtos/:id`  | Remove um produto pelo ID  |
+
+---
 
 ## ⚙️ Como rodar
 
