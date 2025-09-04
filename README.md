@@ -4,7 +4,7 @@
 
 Uma **API de gerenciamento de produtos**, construída com **Node.js e Express**, criada para consolidar fundamentos de JavaScript e aplicar boas práticas de desenvolvimento backend.  
 
-![Fluxo completo da API](https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif)  
+![Fluxo completo da API](https://github.com/user-attachments/assets/080259f3-cd13-411b-b82c-4bd31413c68b)  
 *Exemplo de fluxo completo da API no Postman: GET, POST, PUT e DELETE*  
 
 ---
