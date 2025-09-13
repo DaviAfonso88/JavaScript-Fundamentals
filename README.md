@@ -14,7 +14,8 @@ Uma **API de gerenciamento de produtos**, construída com **Node.js e Express**,
 - Estruturas de controle (`if`, `switch`, `loops`)  
 - Funções (`arrow`, `callback`, `closure`, `factory`, `função construtora`)  
 - Escopo e `this`  
-- Objetos e OOP (classes, herança, getters/setters, JSON)  
+- Objetos e OOP (classes, herança, getters/setters, JSON)
+- Promise e funções async await
 
 ---
 
